@@ -1,5 +1,5 @@
 # Anafi-Panorama-Sorter
-Script resort the order of images of an panorama created by Parrot Anafi Drone
+Script to resort the order of images of an panorama created by Parrot Anafi Drone
 
 Using the automatic mode the Anafi creates the images in the following order:
 
